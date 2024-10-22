@@ -6,7 +6,3 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing football and discovering new places.
 
-<!---
-Rohit222004/Rohit222004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
